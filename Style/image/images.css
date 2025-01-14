@@ -1,0 +1,109 @@
+.prime-div{
+    margin: auto;
+    height: fit-content;
+    width: 50%;
+    background-color: powderblue;
+
+
+    
+   
+}
+
+.image-boikanyo{
+    width: 180px;
+    height: 180px;
+    object-fit: contain;
+    margin-left: 90px;
+    transition: transforom 2s;
+
+}
+
+.image-boikanyo:hover{
+    transform: scale(1.1);
+}
+
+.picture-1{
+    width: 300px;
+    height: 300px;
+    object-fit: contain;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.div-image{ 
+    display: inline-block;
+
+}
+ 
+.image-info {
+    display: inline-block;
+    align-items: center;
+}
+
+.map-logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+
+}
+
+.whatsapp-logo{
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.instagram-logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+}
+
+.facebook-logo {
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+   
+}
+
+.facebook-div{
+    display: inline-block;
+    transition: transform 1.2s;
+}
+
+.instagram-div{
+    display: inline-block;
+    transition: transform 1.2s;
+}
+
+.whatsapp-div{
+    display: inline-block;
+    transition: transform 1.2s;
+}
+
+.map-div{
+    display: inline-block;
+    transition: transform 1.2s;
+}
+
+.map-div:hover{
+    transform: scale(1.2);
+}
+
+.whatsapp-div:hover{
+    transform: scale(1.2);
+}
+
+.instagram-div:hover{
+    transform: scale(1.2);
+}
+
+.facebook-div:hover{
+    transform: scale(1.2);
+}
+
+.logo{
+    margin-left: 110px;
+}
